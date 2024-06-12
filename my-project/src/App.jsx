@@ -4,6 +4,7 @@ import Navbar from './src/components/nabar/Navbar'
 
 import { IoClose } from "react-icons/io5";
 import Main from './src/components/main/Main';
+import Banner from './src/components/main/Banner';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +17,7 @@ function App() {
         <IoClose />
       </div>
       <Navbar />
+      <Banner/>
       <Main/>
     </div>
   )
