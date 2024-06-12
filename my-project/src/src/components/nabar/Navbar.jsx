@@ -9,7 +9,7 @@ function Navbar() {
 
         <img src={shopify} alt="" />
 
-n[]        <select className=' bg-transparent text-white text-base' name="" id=""> <option value="">Start</option> </select>
+        <select className=' bg-transparent text-white text-base' name="" id=""> <option value="">Start</option> </select>
         <select className=' bg-transparent text-white text-base' name="" id=""> <option value="">Sell</option> </select>
         <select className=' bg-transparent text-white text-base' name="" id=""> <option value="">Market</option> </select>
         <select className=' bg-transparent text-white text-base' name="" id=""> <option value="">Manage</option> </select>
